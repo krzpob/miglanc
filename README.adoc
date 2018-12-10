@@ -1,0 +1,7 @@
+= Miglanc
+
+== Ustawinie mavena
+
+Wejść na http://www.oracle.com/webapps/maven/register/license.html i się zarejestrować.
+W pliczku `settings.xml.example` po skopiowaniu do `settings.xml` ustawić login i hasło do strony Oracle.
+Uruchamiać z flagą -s settings.xml, lub wskazać w IDE by go używał.
