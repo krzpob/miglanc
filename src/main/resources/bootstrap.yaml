@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: miglanc
+  cloud:
+    config:
+      uri: http://config.squid.gazeta.pl/
+      failFast: true
